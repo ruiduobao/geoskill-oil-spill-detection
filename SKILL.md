@@ -1,4 +1,4 @@
-﻿---
+---
 name: oil-spill-detection
 description: >
   SAR 暗斑油膜检测 — 从 SAR 暗斑中筛选疑似油膜，结合风场、形状、纹理、船舶和自然 slick 线索
